@@ -3,7 +3,7 @@ layout: post
 title: Object Detection
 author: [ALAN_LEE]
 ---
-# Coral_Reef_Restoration_Indicator_Fish_Species---Based_on_YOLOv5
+# ReefWatch_YOLOv5
 
 The quantity of indicator species in coral reefs is a critical reference for coral surveys. However, manual calculation requires a significant amount of human resources and time. Therefore, utilizing artificial intelligence for automated classification and counting is of utmost importance. The objective of this study is to achieve an accuracy of over 85% in correctly identifying common designated indicator fish species (Parrotfish, Snappers, Butterflyfish, Groupers, and Wrasses) in the Northeastern coastline. Additionally, the accuracy for other fish species should be above 80%. This approach not only reduces the training time for identification personnel but also enables continuous monitoring, potentially allowing for real-time surveillance 24 hours a day.
 
